@@ -1,4 +1,4 @@
-# covid-19-hackatrouble
+# COVID-19 HackaTrouble Event
 
 ### About HackaTrouble
 HackaTrouble's objective  is to find innovative solutions, which can be implemented in the short term (48 hours), to meet the various challenges of society, arising from restrictions and difficulties with the dissemination of the Covid-19 coronavirus in Brazil.
